@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Paul Bates (paul.bates@sonos.com)
-- You'll find me on Studio 110 focused on Pinewood
-- Ping me about
+- 🕔 Santa Barbara, CA
+- 🏣 12 Years at Sonos
+- Current Focus: Pinewood UI Platform and Content Engine
+- Known For
   - Apple Ecosystem, developing for Apple platforms, Swift, SwiftUI, ...
   - TypeScript, Javascript and Node.js
-  - Kotlin, Jetpack Compose, and Android development
+  - Jetpack Compose, Kotlin, and contemporary Android development
 
 <!---
 paulbatessonos/paulbatessonos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
