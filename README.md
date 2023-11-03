@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Paul Bates (paul.bates@sonos.com)
 - 🕔 Santa Barbara, CA
-- 🏣 12 Years at Sonos
-- Current Focus: Pinewood UI Platform and Content Engine
+- 🏣 13 Years at Sonos
 - Known For
   - Apple Ecosystem, developing for Apple platforms, Swift, SwiftUI, ...
   - TypeScript, Javascript and Node.js
